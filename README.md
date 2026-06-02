@@ -101,9 +101,10 @@ Since the laboratories are located in different campus blocks, OSPF is implement
 
 # Smart Inter-Campus Research Collaboration Network
 
-![Smart Inter-Campus Research Collaboration Network](images/ospf_story.png)
+<img width="1536" height="1024" alt="IMAGE 1" src="https://github.com/user-attachments/assets/f7640cd1-d745-4471-aed3-6af4808a3855" />
 
-**Figure 1:** OSPF-based inter-campus communication network connecting two research laboratories.
+
+OSPF-based inter-campus communication network connecting two research laboratories.
 
 ---
 
@@ -212,9 +213,10 @@ When the routers reach the FULL state, they become OSPF neighbors and exchange r
 
 # OSPF Neighbor Formation Process
 
-![OSPF Neighbor Formation](images/ospf_neighbor_formation.png)
+<img width="1536" height="1024" alt="IMAGE 2" src="https://github.com/user-attachments/assets/3075b87c-4f80-4a7f-81d1-11c9a2a5d6b4" />
 
-**Figure 2:** OSPF adjacency establishment between Router2 and Router5.
+
+OSPF adjacency establishment between Router2 and Router5.
 
 ---
 
@@ -280,11 +282,16 @@ Maadeash receives the report successfully.
 
 # OSPF Packet Flow Diagram
 
-![Research Data Packet Flow Through OSPF Network](images/ospf_packet_flow.png)
+<img width="1536" height="1024" alt="IMAGE 3" src="https://github.com/user-attachments/assets/4973f38d-a311-43fa-887d-ebbed5c7a92b" />
 
-**Figure 3:** End-to-end packet forwarding using OSPF dynamic routing.
+
+End-to-end packet forwarding using OSPF dynamic routing.
 
 ---
+# Simulation
+<img width="1156" height="626" alt="image" src="https://github.com/user-attachments/assets/85ebb712-f786-4a36-b54f-19fb99831919" />
+<img width="1495" height="958" alt="image" src="https://github.com/user-attachments/assets/d6a104f3-8af9-45ea-b08e-317d447aec02" />
+<img width="1495" height="958" alt="image" src="https://github.com/user-attachments/assets/256b1086-cef5-4193-bfe7-cc6e84add1ca" />
 
 # Working Principle of OSPF
 
