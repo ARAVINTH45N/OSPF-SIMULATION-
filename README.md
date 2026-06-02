@@ -291,7 +291,8 @@ End-to-end packet forwarding using OSPF dynamic routing.
 # Simulation
 <img width="1156" height="626" alt="image" src="https://github.com/user-attachments/assets/85ebb712-f786-4a36-b54f-19fb99831919" />
 <img width="1495" height="958" alt="image" src="https://github.com/user-attachments/assets/d6a104f3-8af9-45ea-b08e-317d447aec02" />
-<img width="1495" height="958" alt="image" src="https://github.com/user-attachments/assets/256b1086-cef5-4193-bfe7-cc6e84add1ca" />
+<img width="1199" height="967" alt="WhatsApp Image 2026-05-16 at 4 22 09 PM" src="https://github.com/user-attachments/assets/15a80f99-3c95-48b8-bfc1-6b40f06de11f" />
+
 
 # Working Principle of OSPF
 
